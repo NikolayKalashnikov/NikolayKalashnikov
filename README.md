@@ -2,20 +2,27 @@
 
 **Backend & Platform Engineer | Архитектор микросервисов**
 
-Инженер backend- и платформенных решений с фокусом на высоконагруженные распределённые системы. Специализируюсь на микросервисной архитектуре, event-driven подходах, Clean Architecture и enterprise-практиках.
+Инженер backend- и платформенных решений с фокусом на высоконагруженные распределённые системы.
+Специализируюсь на микросервисной архитектуре, event-driven подходах, Clean Architecture и enterprise-практиках.
 
 **Основатель и ведущий архитектор платформы PRIDE-AI** — агрегатора рынка недвижимости нового поколения.
 
+---
+
+## 🚀 GitHub Статистика
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolayKalashnikov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolayKalashnikov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolayKalashnikov&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolayKalashnikov&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolayKalashnikov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolayKalashnikov&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🚀 Флагманский проект
+---
+
+## 🚀 Флагманский проект
 
 **PRIDE-AI**
 Высоконагрузочная платформа для рынка недвижимости, построенная по принципам enterprise-разработки.
@@ -23,9 +30,11 @@
 
 🔗 [Репозиторий платформы](https://github.com/NikolayKalashnikov/PRIDE-platform)
 
-### 🛠 Технологический стек
+---
 
-**Backend**
+## 🛠 Технологический стек
+
+**Backend & Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-003300?logo=sqlalchemy&logoColor=white)
@@ -48,17 +57,19 @@ Clean Architecture • DDD • CQRS • Event-Driven
 **Security**
 JWT • RBAC • 2FA • OAuth 2.1
 
-**Observability**
+**Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-291F3D?logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1E1E1E?logo=opentelemetry&logoColor=white)
 
-**Frontend (базово)**
+**Frontend (базовые навыки)**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-### 📍 Контакты
+---
+
+## 📍 Контакты
 
 - **Локация**: Россия, Новосибирск
 - **Email**: [info@nikolaykalashnikov.ru](mailto:info@nikolaykalashnikov.ru)
