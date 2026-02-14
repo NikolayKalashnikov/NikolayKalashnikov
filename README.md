@@ -12,6 +12,7 @@
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-003300?logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-142B3E?logo=pydantic&logoColor=white)
@@ -26,6 +27,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Architecture**
 Clean Architecture • DDD • CQRS • Event-Driven
@@ -65,3 +67,11 @@ JWT • RBAC • 2FA • OAuth 2.1
 ---
 
 **Открыт к интересным предложениям и коллаборациям по архитектуре и backend-разработке.**
+
+---
+
+## 📊 Активность на GitHub
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=NikolayKalashnikov&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</p>
