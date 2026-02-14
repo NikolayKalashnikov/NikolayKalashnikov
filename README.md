@@ -69,9 +69,3 @@ JWT • RBAC • 2FA • OAuth 2.1
 **Открыт к интересным предложениям и коллаборациям по архитектуре и backend-разработке.**
 
 ---
-
-## 📊 Активность на GitHub
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NikolayKalashnikov&theme=github" />
-</p>
