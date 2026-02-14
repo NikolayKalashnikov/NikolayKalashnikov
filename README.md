@@ -73,5 +73,5 @@ JWT • RBAC • 2FA • OAuth 2.1
 ## 📊 Активность на GitHub
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NikolayKalashnikov&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github.com/NikolayKalashnikov.png?size=200" alt="GitHub Contributions"/>
 </p>
